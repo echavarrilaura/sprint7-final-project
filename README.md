@@ -1,6 +1,9 @@
 Análisis ConnectaTel 📊
+
+
 🎯 Objetivo del proyecto
 Como analista de datos, el objetivo de este proyecto es evaluar el comportamiento de los clientes de ConnectaTel, una empresa de telecomunicaciones en Latinoamérica, utilizando información registrada hasta el año 2024. A través de la exploración, limpieza y análisis de los datos, se busca construir un perfil estadístico de los clientes, detectar comportamientos atípicos en el uso del servicio y crear segmentos según edad y nivel de consumo. Todo esto servirá para identificar patrones que permitan diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos.
+
 
 📁 Datasets utilizados
 El análisis se construyó atravez de tres fuentes de datos principales que fueron integradas en el estudio:
